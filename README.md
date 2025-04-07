@@ -48,7 +48,7 @@ Try it yourself! Paste a review like:
 "This movie was a total masterpiece. The emotions, the music, everything was on point!"
 …and the model will instantly predict the sentiment!
 
-##📚 Dataset
+## 📚 Dataset
 
 Used the built-in IMDB dataset from TensorFlow Datasets:
 25,000 training + 25,000 testing reviews
